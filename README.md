@@ -14,7 +14,7 @@
 🏢 Summer Analyst at Credit Suisse
 ```
 
-#### Areas
+### Areas
 ```text
 📐 Fullstack Engineering
 🎨 UI/UX Design
@@ -22,7 +22,7 @@
 💹 Fintech
 ```
   
-#### Interests
+### Interests
 ```text
 🎛️ Music Production
 🥾 Hiking
