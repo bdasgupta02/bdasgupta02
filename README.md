@@ -36,8 +36,8 @@
 🤔 Algorithmic Trading
 💡 Personal Portfolio
 ```
-
-Please reach me at bdasgupta02@gmail.com
+<br />
+Please feel free to reach me at bdasgupta02@gmail.com
   
 <!--
 **bdasgupta02/bdasgupta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
