@@ -8,7 +8,7 @@
   </a>
 </p>
 
-#### Welcome to my profile!
+### Welcome to my profile!
 ```text
 🎒 Currently a student at NUS Computing
 🏢 Summer Analyst at Credit Suisse
@@ -29,7 +29,7 @@
 🖌️ Oil Painting
 ```
 
-### Some Current Projects
+### Some current projects
 ```text
 🌱 Competitive Gamification of Web Development Technologies
 🌱 Notes for Developers
