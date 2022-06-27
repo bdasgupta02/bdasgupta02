@@ -1,4 +1,4 @@
-### hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hello
 <p>
   <a href="https://www.linkedin.com/in/bikramjit-dasgupta/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
