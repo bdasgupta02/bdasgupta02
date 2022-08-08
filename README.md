@@ -31,7 +31,7 @@
 
 ### Some current projects
 ```text
-🌱 Portfolio Website
+🌱 New Portfolio Website
 🌱 Competitive Gamification of Web Development Technologies (dissertation project)
 🌱 Notes for Developers
 🤔 Algorithmic Trading
