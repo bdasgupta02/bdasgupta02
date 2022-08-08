@@ -32,7 +32,7 @@
 ### Some current projects
 ```text
 🌱 New Portfolio Website
-🌱 Competitive Gamification of Web Development Technologies (dissertation project)
+🌱 Competitive Multiplayer Game for Web Development
 🌱 Notes for Developers
 🤔 Algorithmic Trading
 💡 Personal Portfolio
