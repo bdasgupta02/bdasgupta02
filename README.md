@@ -11,7 +11,6 @@
 ### Welcome to my profile!
 ```text
 🎒 Currently a student at NUS Computing
-🏢 Summer Analyst at Credit Suisse
 ```
 
 ### Areas
