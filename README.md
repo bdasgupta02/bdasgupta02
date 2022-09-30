@@ -30,11 +30,10 @@
 
 ### Some current projects
 ```text
-🌱 New Portfolio Website
-🌱 Competitive Multiplayer Game for Web Development
-🌱 Notes for Developers
-🤔 Algorithmic Trading
-💡 Personal Portfolio
+🌱 New Portfolio Website [v1 complete]
+🌱 Competitive Multiplayer Game for Web Development [mvp in progress]
+🌱 Notes for Developers [ideation]
+🤔 Algorithmic Trading [experimentatio]
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
