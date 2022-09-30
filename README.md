@@ -33,7 +33,7 @@
 🌱 New Portfolio Website [v1 complete]
 🌱 Competitive Multiplayer Game for Web Development [mvp in progress]
 🌱 Notes for Developers [ideation]
-🤔 Algorithmic Trading [experimentatio]
+🤔 Algorithmic Trading [experimentation]
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
