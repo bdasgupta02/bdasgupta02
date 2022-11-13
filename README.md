@@ -1,4 +1,4 @@
-### hello
+### hello 👋
 <p>
   <a href="https://www.linkedin.com/in/bikramjit-dasgupta/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
@@ -11,11 +11,12 @@
 ### Welcome to my profile!
 ```text
 🎒 Currently a student at NUS Computing
+🌱 Aspiring problem solver
 ```
 
 ### Areas
 ```text
-📐 Fullstack Engineering
+📐 Software Engineering
 🎨 UI/UX Design
 🔭 Deep Learning
 💹 Fintech
@@ -23,14 +24,14 @@
   
 ### Interests
 ```text
-🎛️ Music Production
+🎛️ Electronic Music Production
 🥾 Hiking
 🖌️ Oil Painting
 ```
 
 ### Some current projects
 ```text
-🌱 New Portfolio Website [v1 complete]
+🌱 Portfolio Website [v2 complete, v3 in progress]
 🌱 Competitive Multiplayer Game for Web Development [mvp in progress]
 🌱 Notes for Developers [ideation]
 🤔 Algorithmic Trading [experimentation]
