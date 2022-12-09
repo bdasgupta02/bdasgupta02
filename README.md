@@ -12,6 +12,7 @@
 ```text
 🎒 Currently a student at NUS Computing
 🌱 Aspiring problem solver
+🔭 Incoming Quant Dev
 ```
 
 ### Areas
