@@ -1,8 +1,5 @@
 ### hello 👋
 <p>
-  <a href="https://www.linkedin.com/in/bikramjit-dasgupta/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
-  </a>
   <a href="https://bikramjit.co">
     <img src="https://img.shields.io/badge/PERSONAL WEBSITE-%23454545.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 />
   </a>
