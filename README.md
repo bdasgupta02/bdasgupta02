@@ -8,8 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 Currently a student at NUS Computing
-🌱 Aspiring problem solver
-🔭 Incoming Quant Dev
+🔭 Incoming Dev @ Maven Securities
 ```
 
 ### Areas
