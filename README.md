@@ -8,7 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 Currently a student at NUS Computing
-🔭 Incoming Dev @ Maven Securities
+🔭 Incoming Dev at a prop trading firm
 ```
 
 ### Areas
