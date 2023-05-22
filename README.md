@@ -7,29 +7,23 @@
 
 ### Welcome to my profile!
 ```text
-🎒 Currently a student at NUS Computing
-🔭 Incoming Dev at a prop trading firm
+🎒 NUS Computing
+🔭 Dev at a prop trading firm
 ```
 
-### Areas
-```text
-📐 Software Engineering
-🎨 UI/UX Design
-🔭 Deep Learning
-💹 Fintech
-```
-  
 ### Interests
 ```text
-🎛️ Electronic Music Production
-🥾 Hiking
-🖌️ Oil Painting
+📐 Software Engineering
+📈 Data Science
+🔭 Deep Learning
+💹 Quantitative Finance
 ```
 
 ### Some current projects
 ```text
 🌱 Portfolio Website [v2 complete, v3 in progress]
-🌱 Competitive Multiplayer Game for Web Development [mvp in progress]
+🌱 The Tonic Programming Language
+🌱 ML Projects
 🌱 Notes for Developers [ideation]
 🤔 Algorithmic Trading [experimentation]
 ```
