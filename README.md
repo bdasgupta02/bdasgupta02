@@ -8,7 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 NUS Computing
-🔭 Dev at a HFT & Prop Trading Firm
+🔭 Incoming Dev at a HFT
 ```
 
 ### Interests
