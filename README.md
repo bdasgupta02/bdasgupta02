@@ -8,7 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 NUS Computing
-🔭 Incoming Dev at a HFT
+🔭 Dev in high frequency trading
 ```
 
 ### Interests
@@ -21,11 +21,8 @@
 
 ### Some current projects
 ```text
-🌱 Portfolio Website [v2 complete, v3 in progress]
 🌱 The Tonic Programming Language
-🌱 ML Projects
-🌱 Notes for Developers [ideation]
-🤔 Algorithmic Trading [experimentation]
+🌱 Notes for Developers
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
