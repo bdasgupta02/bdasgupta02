@@ -8,7 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 NUS Computing
-🔭 Dev in high frequency trading
+🔭 Dev in trading
 ```
 
 ### Interests
@@ -23,6 +23,7 @@
 ```text
 🌱 The Tonic Programming Language
 🌱 Notes for Developers
+Weird experiments
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
