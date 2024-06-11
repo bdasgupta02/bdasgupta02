@@ -8,7 +8,7 @@
 ### Welcome to my profile!
 ```text
 🎒 NUS Computing
-🔭 Dev in trading
+🔭 Engineer in options market making
 ```
 
 ### Interests
@@ -21,9 +21,8 @@
 
 ### Some current projects
 ```text
+🌱 Concurrent Petri Net Framework
 🌱 The Tonic Programming Language
-🌱 Notes for Developers
-Weird experiments
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
