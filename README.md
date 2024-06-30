@@ -1,7 +1,7 @@
 ### hello 👋 I'm Bikram
 
 ```text
-🔭 Engineer in market making
+🔭 C++ engineer in market making
 ```
 
 ### Interests
