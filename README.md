@@ -1,9 +1,4 @@
-### hello 👋
-<p>
-  <a href="https://bikramjit.co">
-    <img src="https://img.shields.io/badge/PERSONAL WEBSITE-%23454545.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 />
-  </a>
-</p>
+### hello 👋 I'm Bikram
 
 ```text
 🔭 Engineer in market making
