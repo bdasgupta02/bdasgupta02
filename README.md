@@ -7,9 +7,8 @@
 ### Interests
 ```text
 📐 Software Engineering
-📈 Data Science
 🔭 Deep Learning
-💹 Computational math
+💹 Computational Math
 ```
 
 ### Some current projects
