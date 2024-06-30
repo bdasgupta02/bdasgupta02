@@ -5,10 +5,8 @@
   </a>
 </p>
 
-### Welcome to my profile!
 ```text
-🎒 NUS Computing
-🔭 Engineer in options market making
+🔭 Engineer in market making
 ```
 
 ### Interests
@@ -16,7 +14,7 @@
 📐 Software Engineering
 📈 Data Science
 🔭 Deep Learning
-💹 Quantitative Finance
+💹 Computational math
 ```
 
 ### Some current projects
