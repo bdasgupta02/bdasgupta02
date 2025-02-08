@@ -1,7 +1,7 @@
 ### hello 👋 I'm Bikram
 
 ```text
-🔭 C++ engineer in market making
+🔭 C++ engineer in high-frequency market making
 ```
 
 ### Interests
@@ -13,6 +13,7 @@
 
 ### Some current projects
 ```text
+🌱 High-frequency Stat Arb and Triangular Arb in Crypto
 🌱 Concurrent Petri Net Framework
 🌱 The Tonic Programming Language
 ```
