@@ -13,7 +13,7 @@
 
 ### Some current projects
 ```text
-🌱 High-frequency Stat Arb and Triangular Arb in Crypto
+🌱 Low Latency Stat and Triangular Arb in Crypto
 🌱 Concurrent Petri Net Framework
 🌱 The Tonic Programming Language
 ```
