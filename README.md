@@ -15,7 +15,6 @@
 ```text
 🌱 Low Latency Stat and Triangular Arb in Crypto
 🌱 Concurrent Petri Net Framework
-🌱 The Tonic Programming Language
 ```
 <br />
 Please feel free to reach me at bdasgupta02@gmail.com
