@@ -9,7 +9,6 @@
 
 ### Some current projects
 ```text
-🌱 Low Latency Stat and Triangular Arb in Crypto
 🌱 Concurrent Petri Net Framework
 ```
 <br />
