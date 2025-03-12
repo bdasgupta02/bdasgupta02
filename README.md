@@ -1,9 +1,5 @@
 ### hello 👋 I'm Bikram
 
-```text
-🔭 C++ engineer in high-frequency market making
-```
-
 ### Interests
 ```text
 📐 Software Engineering
